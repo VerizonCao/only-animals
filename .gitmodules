@@ -1,0 +1,3 @@
+[submodule "myfrontend"]
+	path = myfrontend
+	url = /Users/caoye/git/onlyfan-app/frontend/myfrontend
